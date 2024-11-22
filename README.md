@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandeepKumar-01
-- 👀 I’m interested in Programming, Learning, Technology
+- 👀 I’m interested in Programming, Creative Writing, Technology
 - 🌱 I’m currently learning Computer Applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
